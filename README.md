@@ -47,6 +47,6 @@ Required Libraries: pandas, numpy, matplotlib, scikit-learn, scipy
 
 4. Navigate to the respective task notebook and run the cells.
 
-Notes
+Note
 Each notebook is self-contained and provides detailed explanations and code comments.
 The repository is part of a virtual experience program and is intended for educational purposes.

@@ -24,22 +24,28 @@ Requirements
 Python 3.7+
 Required Libraries: pandas, numpy, matplotlib, scikit-learn, scipy
 
-Usage
-Each task is implemented in a separate Jupyter Notebook (.ipynb) file. To run the notebooks:
+## Usage
 
-Clone this repository:
-bash
-git clone https://github.com/dushyant-18/JPMC-Quantitative-Research/
+1. Clone this repository:
 
-Install the required Python libraries:
-bash
-pip install -r requirements.txt
+    ```bash
+    git clone https://github.com/dushyant-18/JPMC-Quantitative-Research.git
+    cd jpmorgan-quant-research
+    ```
 
-Open and run the notebooks using Jupyter:
-bash
-jupyter notebook
+2. Install the required Python libraries:
 
-Navigate to the respective task notebook and run the cells.
+    ```bash
+    pip install -r requirements.txt
+    ```
+
+3. Open and run the notebooks using Jupyter:
+
+    ```bash
+    jupyter notebook
+    ```
+
+4. Navigate to the respective task notebook and run the cells.
 
 Notes
 Each notebook is self-contained and provides detailed explanations and code comments.
